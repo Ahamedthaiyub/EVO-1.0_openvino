@@ -1,8 +1,0 @@
-id,patient_id,consultant_name,appointment_type,appointment_date,appointment_time,hospital_location,status
-1,3,sda,Doctor Consultation,2222-04-22,03:43,,Completed
-2,3,sda,Blood Test,1111-03-21,03:12,,New
-3,3,sdada,Doctor Consultation,2231-02-22,14:01,,New
-4,3,zxpxdfd,Blood Test,2222-02-22,02:12,"12.971371517185146,77.5994086682977",Completed
-5,3,jeyasundar,Blood Test,2324-03-12,15:42,,Completed
-6,10,wefw,Doctor Consultation,6344-02-24,14:43,"11.074848306303059,77.17848087065842",New
-7,10,sdada,Doctor Consultation,3422-02-08,15:42,"11.053620604910066,77.11977697974045",New
