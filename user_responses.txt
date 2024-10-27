@@ -1,0 +1,10 @@
+What is your primary symptom or reason for the visit?: fever
+How long have you been experiencing these symptoms?: 8 days 
+Do you have a history of chronic conditions?: no
+Have you undergone any surgeries or medical procedures?: no
+Are you currently taking any medications or supplements?: no
+Have you recently experienced any loss of appetite, nausea, or vomiting?: no
+Do you have a fever or have you experienced sudden weight loss?: no
+Are you experiencing any pain? If yes, describe location and severity.: no
+Do you have a family history of any specific diseases?: no
+Any other symptoms or information to share?: no
