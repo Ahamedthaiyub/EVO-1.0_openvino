@@ -16,6 +16,34 @@
 
 - **Chatbot Backend**: [Download here](https://drive.google.com/drive/folders/1zYYp1ZbeRzo1zfxk4TU5pyD1pXKqJnBT?usp=sharing)
 
+  ## Running the Project
+
+### 1. Backend (Chatbot)
+
+After downloading the backend files from Google Drive, navigate to the backend directory and start the chatbot by running:
+
+```bash
+chainlit run model.py -w
+```
+
+### 2. Main Application
+
+Navigate to the `health` folder in the main application directory and run:
+
+```bash
+cd health
+python app.py
+```
+
+---
+
+## Usage
+
+- Once the application is running, EVO_1.0+ will capture real-time data from connected devices (e.g., smartwatch and camera).
+- Data is processed, analyzed, and securely stored in the patient database.
+- Automated daily reports, medication recommendations, and alerts are generated for both doctors and patients.
+
+
 
 ## Overview
 
@@ -86,32 +114,6 @@ Switching from CPU to NPU for specific tasks significantly improved processing s
 
 ---
 
-## Running the Project
-
-### 1. Backend (Chatbot)
-
-After downloading the backend files from Google Drive, navigate to the backend directory and start the chatbot by running:
-
-```bash
-chainlit run model.py -w
-```
-
-### 2. Main Application
-
-Navigate to the `health` folder in the main application directory and run:
-
-```bash
-cd health
-python app.py
-```
-
----
-
-## Usage
-
-- Once the application is running, EVO_1.0+ will capture real-time data from connected devices (e.g., smartwatch and camera).
-- Data is processed, analyzed, and securely stored in the patient database.
-- Automated daily reports, medication recommendations, and alerts are generated for both doctors and patients.
 
 ---
 
