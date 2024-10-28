@@ -8,6 +8,15 @@
 
 ---
 
+## Installation
+
+> Due to the large size of the project (5GB+), GitHub does not support hosting the entire codebase. Instead, download the necessary files from the provided Google Drive links.
+
+- **Main Application Files**: [Download here](https://drive.google.com/drive/folders/1whe8bFdKN5dNOIB_PYTTPqM8_JTxeQEX?usp=sharing)
+
+- **Chatbot Backend**: [Download here](https://drive.google.com/drive/folders/1zYYp1ZbeRzo1zfxk4TU5pyD1pXKqJnBT?usp=sharing)
+
+
 ## Overview
 
 EVO_1.0+ is a comprehensive AI-powered healthcare monitoring system designed to track and analyze patient vitals such as BPM (Beats per Minute) and oxygen levels, alongside emotional data through camera-based analysis. This solution automates patient-doctor interactions, enabling timely interventions and enhancing patient well-being through accurate, real-time insights.
@@ -63,13 +72,6 @@ Switching from CPU to NPU for specific tasks significantly improved processing s
 
 ---
 
-## Installation
-
-> Due to the large size of the project (5GB+), GitHub does not support hosting the entire codebase. Instead, download the necessary files from the provided Google Drive links.
-
-- **Main Application Files**: [Download here](https://drive.google.com/drive/folders/1whe8bFdKN5dNOIB_PYTTPqM8_JTxeQEX?usp=sharing)
-
-- **Chatbot Backend**: [Download here](https://drive.google.com/drive/folders/1zYYp1ZbeRzo1zfxk4TU5pyD1pXKqJnBT?usp=sharing)
 
 ### Steps to Install
 
