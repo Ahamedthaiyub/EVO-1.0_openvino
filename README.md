@@ -3,7 +3,7 @@ Here’s a `README.md` file code template for EVO_1.0+ Health Care System:
 
 # EVO_1.0+ Health Care System
 
-![EVO_1.0+ Logo](path/to/logo.png)
+![EVO_1.0+ Logo](https://github.com/Ahamedthaiyub/EVO-1.0_openvino/blob/main/Green%20and%20Orange%20Simple%20Medical%20Logo(1).png)
 
 ---
 
