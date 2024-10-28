@@ -33,7 +33,8 @@ The above flowchart illustrates the data flow within EVO_1.0+, showing how patie
 ## System Performance
 
 **CPU vs. NPU Comparison**  
-![CPU vs NPU Performance](path/to/performance_comparison.png)
+![CPU vs NPU Performance](https://github.com/Ahamedthaiyub/EVO-1.0_openvino/blob/main/WhatsApp%20Image%202024-10-27%20at%2022.25.46.jpeg)
+
 
 The shift from CPU to NPU for certain tasks has significantly improved processing speeds and overall system efficiency, enabling EVO_1.0+ to deliver real-time insights more effectively.
 
