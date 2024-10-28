@@ -126,6 +126,8 @@ We welcome contributions! However, due to the large file size, please coordinate
 ## Contributors
 
 - **AHAMED THAIYUB A** – Lead Developer
+- **JEYASUNDAR R**
+- **ADITYA RS**
 
 ---
 
