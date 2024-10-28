@@ -122,8 +122,8 @@ We welcome contributions to EVO_1.0+! However, due to the large file size, pleas
 
 ## Downloads
 
-- **Chatbot Backend**: [Download here](https://drive.google.com/drive/folders/1zYYp1ZbeRzo1zfxk4TU5pyD1pXKqJnBT?usp=sharing)
-- **Main Application Files**: [Download here](https://drive.google.com/drive/folders/1whe8bFdKN5dNOIB_PYTTPqM8_JTxeQEX?usp=sharing)
+- **Chatbot Backend**: [Download here](https://drive.google.com/drive/folders/1whe8bFdKN5dNOIB_PYTTPqM8_JTxeQEX?usp=sharing)
+- **Main Application Files**: [Download here](https://drive.google.com/drive/folders/1zYYp1ZbeRzo1zfxk4TU5pyD1pXKqJnBT?usp=sharing)
 
 ---
 
