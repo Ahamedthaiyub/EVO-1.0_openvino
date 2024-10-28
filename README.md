@@ -59,8 +59,9 @@ Switching from CPU to NPU for specific tasks significantly improved processing s
 
 > Due to the large size of the project (5GB+), GitHub does not support hosting the entire codebase. Instead, download the necessary files from the provided Google Drive links.
 
-- **Chatbot Backend**: [Download here](https://drive.google.com/drive/folders/1zYYp1ZbeRzo1zfxk4TU5pyD1pXKqJnBT?usp=sharing)
 - **Main Application Files**: [Download here](https://drive.google.com/drive/folders/1whe8bFdKN5dNOIB_PYTTPqM8_JTxeQEX?usp=sharing)
+
+- **Chatbot Backend**: [Download here](https://drive.google.com/drive/folders/1zYYp1ZbeRzo1zfxk4TU5pyD1pXKqJnBT?usp=sharing)
 
 ### Steps to Install
 
@@ -139,6 +140,3 @@ We welcome contributions to EVO_1.0+! However, due to the large file size, pleas
 
 For inquiries, please reach out to [ahamedthaiyub27@gmail.com](mailto:ahamedthaiyub27@gmail.com).
 
----
-
-Replace any placeholder links or paths as needed. This version includes a polished, professional tone with clear headings and organized sections to improve readability.
