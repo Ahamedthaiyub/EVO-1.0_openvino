@@ -12,7 +12,7 @@ EVO_1.0+ is an AI-powered healthcare monitoring system designed to track and ana
 
 ---
 
-## System Flowchart
+## System 
 
 ![image](https://github.com/user-attachments/assets/0e5dbe14-426e-4e81-bd6e-c4cf3b6e6b03)
 
