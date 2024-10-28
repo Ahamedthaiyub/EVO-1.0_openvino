@@ -34,6 +34,7 @@ The above flowchart illustrates the data flow within EVO_1.0+, showing how patie
 
 **CPU vs. NPU Comparison**  
 ![CPU vs NPU Performance](https://github.com/Ahamedthaiyub/EVO-1.0_openvino/blob/main/WhatsApp%20Image%202024-10-27%20at%2022.25.46.jpeg)
+![CPU vs NPU Performance](https://github.com/Ahamedthaiyub/EVO-1.0_openvino/blob/main/WhatsApp%20Image%202024-10-27%20at%2022.31.02.jpeg)
 
 
 The shift from CPU to NPU for certain tasks has significantly improved processing speeds and overall system efficiency, enabling EVO_1.0+ to deliver real-time insights more effectively.
@@ -115,8 +116,9 @@ Download the EVO_1.0+ Health Care System files [here](https://drive.google.com/p
 
 ## Contributors
 
-- **Aditya Krishna RS** – Lead Developer
-
+- **AHAMED THAIYUB A** – Lead Developer
+- jeyasundar R 
+- Aditya R
 ---
 
 ## License
@@ -127,7 +129,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For inquiries, please reach out to [Your Email](mailto:youremail@example.com).
+For inquiries, please reach out to [Your Email](ahamedthaiyub27@gmail.com)
 
 ```
 
