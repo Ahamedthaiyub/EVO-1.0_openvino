@@ -72,10 +72,10 @@ The flowchart above illustrates the data flow within EVO_1.0+, demonstrating how
 
 ### CPU vs. NPU Performance Comparison
 
-**CPU Performance**  
+**NPU Performance**  
 ![CPU Performance](https://github.com/Ahamedthaiyub/EVO-1.0_openvino/blob/main/WhatsApp%20Image%202024-10-27%20at%2022.25.46.jpeg)
 
-**NPU Performance**  
+**CPU Performance**  
 ![NPU Performance](https://github.com/Ahamedthaiyub/EVO-1.0_openvino/blob/main/WhatsApp%20Image%202024-10-27%20at%2022.31.02.jpeg)
 
 
